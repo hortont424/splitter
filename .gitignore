@@ -1,0 +1,10 @@
+[Bb]uild/
+.DS_Store
+*.perspectivev3
+*~.nib/
+*.perspective
+*.pbxuser
+*.mode1*
+xcuserdata/
+.sconsign.dblite
+*.pyc
